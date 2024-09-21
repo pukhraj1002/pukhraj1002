@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on different projects
 
-📝 I actively post on [LinkedIn](https://linkedin.com/in/rahulkarda)
+📝 I actively post on [LinkedIn]((https://www.linkedin.com/in/pukhraj-kushwah-2b95bb23b/))
 
 📫You can reach me at pukhrajkush2004@gmail.com
 
