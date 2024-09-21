@@ -24,7 +24,7 @@
   <a href="https://www.credly.com/users/pukhraj-kushwah" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=CREDLY&color=cde928&style=plastic&logo=dev.to&logo-color=white"/>
   </a>
-  <a href="resume.pdf" target="_blank" download="resume.pdf">
+  <a href="Pukhraj_Resume.pdf" target="_blank" download="Pukhraj_Resume.pdf">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
